@@ -1,0 +1,14 @@
+body{
+    background-color: #000
+}
+body.bg_filmes{
+    background-image: url(../assets/images/b.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#caixa_login{
+    background-color: rgba(0,0,0, 0.7);
+    padding: 30px;
+    
+}
